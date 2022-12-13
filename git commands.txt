@@ -1,0 +1,14 @@
+1 open github
+2 new repo
+3 copy https link
+4 open project folder
+5 open git bash
+6 cmd- git clone (paste link)
+7 add all files inside clone folder
+8 open git bash
+9 cmd - git add -A
+10 cmd - git commit -a -m "message"
+11 cmd - git push origin main
+
+
+
