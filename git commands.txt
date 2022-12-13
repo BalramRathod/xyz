@@ -9,6 +9,3 @@
 9 cmd - git add -A
 10 cmd - git commit -a -m "message"
 11 cmd - git push origin main
-
-
-
